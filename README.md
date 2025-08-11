@@ -49,6 +49,3 @@ Learn about tree-based models, overfitting control, and feature importance inter
 - Decision Tree plot (matplotlib/Graphviz)
 - Feature Importance bar chart
 - Train vs Test Accuracy for varying `max_depth`
-
-# Run script
-python task5_decisiontree_randomforest.py
